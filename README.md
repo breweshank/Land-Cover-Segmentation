@@ -64,10 +64,32 @@ It provides a **Tkinter-based GUI** for easy visualization of segmentation resul
 - **NumPy**
 - **Matplotlib**
 ---
-## **Output Result** 
+## **Output Result**
+## **Left: Original Image | Right: Segmentation Output | Bottom: Legend**
 - **Sample Result 1**
-<img src="Screenshot 2025-08-15 123244.png" alt="Segmentation Output" width="1000">
+ <img src="Screenshot 2025-08-15 123244.png" alt="Segmentation Output" width="750">
+ 
+- **Sample Result 2**
+ <img src="Screenshot 2025-08-15 130319.png" alt="Segmentation Output" width="750">
 
 
+## 🎯**Application Relevance**
+**This system aligns with Remote Sensing mission areas:**
+- Remote Sensing & GIS Analysis
+- Land Use and Land Cover (LULC) Mapping
+- Urban-Rural Infrastructure Planning
+- Agricultural Resource Management
+- Water Body and Road Network Monitoring
+## **Advantages:**
+- High accuracy from deep learning models
+- Simple GUI for field operators
+- Customizable for different satellite datasets
+## 📜 License
+MIT License – free to use and adapt for research and development.
 
----
+## 👨‍💻 Author
+
+Eshank Ryshabh
+📧 ryshabheshank@gmail.com
+🔗 GitHub Profile [Profile Link](https://github.com/Junjue-Wang/LoveDA)
+
