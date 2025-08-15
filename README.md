@@ -64,7 +64,10 @@ It provides a **Tkinter-based GUI** for easy visualization of segmentation resul
 - **NumPy**
 - **Matplotlib**
 ---
-## **Output Result**
-![Urban Segmentation Result](https://example.com/image.png)
+## **Output Result** 
+- **Sample Result 1**
+<img src="Screenshot 2025-08-15 123244.png" alt="Segmentation Output" width="1000">
+
+
 
 ---
