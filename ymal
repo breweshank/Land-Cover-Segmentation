@@ -1,0 +1,21 @@
+
+---
+
+## 🚀 Features
+- **Model**: U-net with ResNet50 backbone
+- **Dataset**: LoveDA (256×256 input size)
+- **Accuracy**: Tuned for >90% mIoU on the 'Road' class
+- **GUI**: Tkinter-based interface for loading images and viewing segmentation results
+- **Optimized Training**: Early stopping, learning rate scheduler, and augmentation
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/loveda-road-segmentation.git
+cd loveda-road-segmentation
+
+# Install dependencies
+pip install -r requirements.txt
