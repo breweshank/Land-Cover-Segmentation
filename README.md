@@ -88,8 +88,7 @@ It provides a **Tkinter-based GUI** for easy visualization of segmentation resul
 MIT License – free to use and adapt for research and development.
 
 ## 👨‍💻 Author
-
-Eshank Ryshabh
-📧 ryshabheshank@gmail.com
-🔗 GitHub Profile [Profile Link](https://github.com/Junjue-Wang/LoveDA)
+- Eshank Ryshabh
+  - 📧 ryshabheshank@gmail.com
+  - 🔗 GitHub Profile [Profile Link](https://github.com/breweshank)
 
